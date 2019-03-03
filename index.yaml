@@ -3,11 +3,11 @@ entries:
   whitemos:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-03-03T13:05:35.5841539+08:00
+    created: 2019-03-03T13:24:46.6269853+08:00
     description: A Helm chart for Kubernetes
     digest: 5c43d7b396a1f070c72cfd9624e6bf34789345f048bc03e062aadc4b2edd1249
     name: whitemos
     urls:
-    - whitemos/whitemos-0.1.0.tgz
+    - whitemos-0.1.0.tgz
     version: 0.1.0
-generated: 2019-03-03T13:05:35.5831556+08:00
+generated: 2019-03-03T13:24:46.6259899+08:00
