@@ -8,6 +8,6 @@ entries:
     digest: 5c43d7b396a1f070c72cfd9624e6bf34789345f048bc03e062aadc4b2edd1249
     name: whitemos
     urls:
-    - whitemos-0.1.0.tgz
+    - https://raw.githubusercontent.com/jasonsoft/helm/master/whitemos-0.1.0.tgz
     version: 0.1.0
 generated: 2019-03-03T13:24:46.6259899+08:00
